@@ -1,1 +1,1 @@
-# Stok-Market-Analysis-Kafka
+# Stock-Market-Analysis-Kafka
